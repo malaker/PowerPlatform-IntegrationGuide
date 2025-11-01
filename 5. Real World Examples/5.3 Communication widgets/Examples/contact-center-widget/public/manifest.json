@@ -1,0 +1,8 @@
+{
+  "name": "Contact Center Widget",
+  "version": "1.0.0",
+  "description": "Amazon-style contact center widget for Dynamics 365",
+  "type": "communication-widget",
+  "entry": "contactcenter.bundle.js",
+  "cifVersion": "2.0"
+}
