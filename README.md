@@ -1,6 +1,14 @@
 # Microsoft Power Platform Integration Guide - Code Examples
 
-Welcome! This repository contains all code listings and examples from the book **["Microsoft Power Platform Integration Guide. For Makers, Consultants, Developers, Architects"](https://www.amazon.com/Microsoft-Power-Platform-Integration-Guide/dp/8397776400?crid=2DW0FODJ4BZBL&dib=eyJ2IjoiMSJ9.hbmg1LJUT8k_ZWMUpaliMs6Yf4CB6WFyz046i6_zSwg.2tJMjtk3lCJgkf7UmFwbZfL_rGNtwMJVsvuEy-wEQWs&dib_tag=se&keywords=balcerowski&qid=1767297412&sprefix=%2Caps%2C193&sr=8-1&linkCode=ll1&tag=mobile038dce3-20&linkId=ce617812d701fcc51dd650d3cd85e842&language=en_US&ref_=as_li_ss_tl)**. The folder structure mirrors the book's table of contents, making it easy to find the code you need.
+Welcome! This repository contains all code listings and examples from the book **"Microsoft Power Platform Integration Guide. For Makers, Consultants, Developers, Architects"**. The folder structure mirrors the book's table of contents, making it easy to find the code you need.
+
+**Book details:**
+
+| | |
+|---|---|
+| **Title** | Microsoft Power Platform Integration Guide |
+| **Subtitle** | For Makers, Consultants, Developers, Architects |
+| **ISBN** | 978-83-977764-0-1 (print), 978-83-977764-1-8 (ebook) |
 
 ## 📖 About This Repository
 
